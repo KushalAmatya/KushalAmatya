@@ -11,7 +11,7 @@
 - 📫 How to reach me **kushalamatya413@gmail.com**
 
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpretty-gifs.tumblr.com%2Fpost%2F146760773657%2Fcredit-video-by-even-mathisen-x-gif-by&psig=AOvVaw3cr1DNWRU9vuK0fXkN8HvQ&ust=1664008316486000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJjem6XAqvoCFQAAAAAdAAAAABAD" style="display:flex; flex-wrap:wrap; align-items:center;">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpretty-gifs.tumblr.com%2Fpost%2F146760773657%2Fcredit-video-by-even-mathisen-x-gif-by&psig=AOvVaw3cr1DNWRU9vuK0fXkN8HvQ&ust=1664008316486000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJjem6XAqvoCFQAAAAAdAAAAABAD">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
