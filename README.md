@@ -11,7 +11,7 @@
 - 📫 How to reach me **kushalamatya413@gmail.com**
 
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fgeo-visualization-of-daily-movements-of-bike-sharing-system-helsinki-and-tartu-c38b4aed6b06&psig=AOvVaw1JeUipwS240jGcHLE-i6P7&ust=1664008553204000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNDhuozBqvoCFQAAAAAdAAAAABAN">
+<img src="https://miro.medium.com/max/1100/1*VUudlCaNsgf7QP9aj_HJUA.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
