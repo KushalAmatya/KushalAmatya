@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kushalamatya413@gmail.com**
 
-<img src="https://giffiles.alphacoders.com/350/35046.gif" style="display:flex height:400">
+<img src="https://miro.medium.com/max/1100/1*3UxNxRpl8hVpW-jt_64Rhg.gif" style="display:flex height:400">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
