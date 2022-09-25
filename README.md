@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **kushalamatya413@gmail.com**
-<div>
+<div style="display:flex;">
 <div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
