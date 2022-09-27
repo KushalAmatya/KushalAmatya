@@ -19,7 +19,7 @@
 </p>
 </div>
 <div>
-<img src="https://miro.medium.com/max/1100/1*3UxNxRpl8hVpW-jt_64Rhg.gif" style="display:flex; height:400; width:50%;">
+<img src="https://hips.hearstapps.com/pop.h-cdn.co/assets/17/24/1497533116-not-dead.gif" style="display:flex; height:400; width:50%;">
 </div>
 </div>
 <h3 align="left">Languages and Tools:</h3>
