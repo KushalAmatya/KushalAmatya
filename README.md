@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/senpokushal" target="blank"><img src="https://img.shields.io/twitter/follow/senpokushal?logo=twitter&style=for-the-badge" alt="senpokushal" /></a> </p>
 <img src="https://hips.hearstapps.com/pop.h-cdn.co/assets/17/24/1497533116-not-dead.gif" align="right" height="175px">
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **React and Laravel**
 
 - 📫 How to reach me **kushalamatya413@gmail.com**
 <div style="display:flex; flex-wrap:wrap;">
