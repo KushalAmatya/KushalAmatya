@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalamatya&label=Profile%20views&color=0e75b6&style=flat" alt="kushalamatya" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/senpokushal" target="blank"><img src="https://img.shields.io/twitter/follow/senpokushal?logo=twitter&style=for-the-badge" alt="senpokushal" /></a> </p>
 <img src="https://hips.hearstapps.com/pop.h-cdn.co/assets/17/24/1497533116-not-dead.gif" align="right" height="175px">
 - 🌱 I’m currently learning **React and Laravel**
 
