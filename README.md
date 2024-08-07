@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalamatya&label=Profile%20views&color=0e75b6&style=flat" alt="kushalamatya" /> </p>
 
-- 🔭 I’m currently working on [React Web Clone](https://github.com/KushalAmatya/React-Clone-GPT3)
+- 🔭 I’m currently working on [React HookForm Zod](https://github.com/KushalAmatya/HookForm_ZOD)
 
-- 🌱 I’m currently learning **MERN Stack, Flutter**
+- 🌱 I’m currently learning **MERN Stack, RadixUI**
 
 - 💬 Ask me about **NodeJS,React**
 
