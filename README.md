@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalamatya&label=Profile%20views&color=0e75b6&style=flat" alt="kushalamatya" /> </p>
 
-- 🔭 I’m currently working on [React HookForm Zod](https://github.com/KushalAmatya/HookForm_ZOD)
+- 🔭 I’m currently working on [Radix UI](https://github.com/KushalAmatya/HookForm_ZOD)
 
 - 🌱 I’m currently learning **MERN Stack, RadixUI**
 
