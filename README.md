@@ -23,4 +23,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushalamatya&show_icons=true&locale=en&layout=compact&theme=radical" alt="kushalamatya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushalamatya&theme=radical" alt="kushalamatya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=KushalAmatya&theme=radical&border_radius=5.8&exclude_days=Sun%2CSat" alt="kushalamatya" /></p>
