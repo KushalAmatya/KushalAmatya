@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalamatya&label=Profile%20views&color=0e75b6&style=flat" alt="kushalamatya" /> </p>
 
-- 🔭 I’m currently working on [Tanstack Table and Query](https://github.com/KushalAmatya/TanStack_PaginatedTable)
+- 🔭 I’m currently working on [Tanstack Start](https://github.com/KushalAmatya/TanStack_PaginatedTable)
 
-- 🌱 I’m currently learning **MERN Stack, RadixUI**
+- 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **NodeJS,React**
+- 💬 Ask me about **NodeJS,Javascript**
 
 - 📫 How to reach me **kushalamatya413@gmail.com**
 
